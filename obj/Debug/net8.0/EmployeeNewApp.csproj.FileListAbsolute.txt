@@ -1,0 +1,14 @@
+C:\Employee2App\CSharpProjects\EmployeeNewApp\bin\Debug\net8.0\EmployeeNewApp.exe
+C:\Employee2App\CSharpProjects\EmployeeNewApp\bin\Debug\net8.0\EmployeeNewApp.deps.json
+C:\Employee2App\CSharpProjects\EmployeeNewApp\bin\Debug\net8.0\EmployeeNewApp.runtimeconfig.json
+C:\Employee2App\CSharpProjects\EmployeeNewApp\bin\Debug\net8.0\EmployeeNewApp.dll
+C:\Employee2App\CSharpProjects\EmployeeNewApp\bin\Debug\net8.0\EmployeeNewApp.pdb
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\EmployeeNewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\EmployeeNewApp.AssemblyInfoInputs.cache
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\EmployeeNewApp.AssemblyInfo.cs
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\EmployeeNewApp.csproj.CoreCompileInputs.cache
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\EmployeeNewApp.dll
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\refint\EmployeeNewApp.dll
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\EmployeeNewApp.pdb
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\EmployeeNewApp.genruntimeconfig.cache
+C:\Employee2App\CSharpProjects\EmployeeNewApp\obj\Debug\net8.0\ref\EmployeeNewApp.dll
